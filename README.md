@@ -4,7 +4,7 @@
 
 ## Gist It
 
-<script src="http://gist-it.appspot.com/github/robertkrimen/gist-it-example/blob/master/example.js"></script>
+<script src="https://gist-it.appspot.com/github/robertkrimen/gist-it-example/blob/master/example.js"></script>
 
 ## One Gist File
 
