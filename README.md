@@ -5,3 +5,6 @@
 ## Test content
 
 ...
+
+## Gist
+{% gist 5555251 %}
