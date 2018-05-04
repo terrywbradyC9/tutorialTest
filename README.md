@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Code Embed Tools
+
+## [View on GitHub Pages](https://terrywbrady.github.io/tutorialTest)
 
 {% include include.md %}
 
@@ -8,5 +10,6 @@
 
 ## Gist Embed
 
-{% gist 29006fadfd94fb0e47ba29b9d29cd738 %}
+{% gist c022e2cb3ec64c34b3b613b6fffb59bc %}
 
+## Other Options
