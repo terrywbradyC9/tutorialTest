@@ -4,8 +4,5 @@
 
 ## Test content
 
-{% gist 5555251 %}
+{% gist 29006fadfd94fb0e47ba29b9d29cd738 %}
 
-
-## Github
-<script src="https://raw.githubusercontent.com/terrywbrady/info/master/README.md"></script>
