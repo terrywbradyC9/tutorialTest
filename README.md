@@ -4,7 +4,7 @@
 
 ## Gist It
 
-<script src="https://gist-it.appspot.com/github/terrywbrady/info/master/README.md"></script>
+<script src="https://gist-it.appspot.com/github/terrywbrady/info/blob/master/README.md"></script>
 
 ## One Gist File
 
