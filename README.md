@@ -4,7 +4,7 @@
 
 ## Gist It
 
-<script src="https://gist-it.appspot.com/github/terrywbrady/info/blob/master/README.md?slice=1-10"></script>
+<script src="https://gist-it.appspot.com/github/terrywbrady/info/blob/master/README.md?slice=1:10"></script>
 
 ## Gist Embed
 
