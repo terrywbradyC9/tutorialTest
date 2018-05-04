@@ -13,7 +13,7 @@
 
 [Git It Documentation](http://gist-it.appspot.com/)
 
-<script src="https://gist-it.appspot.com/github/terrywbrady/info/blob/master/README.md?slice=1:10"></script>
+<script src="https://gist-it.appspot.com/github/terrywbrady/info/blob/master/README.md?slice=2:10"></script>
 
 ## Gist Embed via Jekyll
 See [Gist Embed Documentation](https://gist.github.com/benbalter/5555251)
