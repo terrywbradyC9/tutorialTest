@@ -22,5 +22,5 @@ See [Gist Embed Documentation](https://gist.github.com/benbalter/5555251)
 
 ## Other Options
 
-- https://codepen.io/
-- https://pastebin.com/
+- [CodePen](https://codepen.io/)
+- [PasteBin](https://pastebin.com/)
