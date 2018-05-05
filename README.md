@@ -24,3 +24,6 @@ See [Gist Embed Documentation](https://gist.github.com/benbalter/5555251)
 
 - [CodePen](https://codepen.io/)
 - [PasteBin](https://pastebin.com/)
+
+## Note
+[gif.md](gif.md)
